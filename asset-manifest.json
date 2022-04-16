@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Catax-Atattendance/static/css/main.c965756f.css",
+    "main.js": "/Catax-Atattendance/static/js/main.6478d995.js",
+    "static/js/787.56573871.chunk.js": "/Catax-Atattendance/static/js/787.56573871.chunk.js",
+    "index.html": "/Catax-Atattendance/index.html",
+    "main.c965756f.css.map": "/Catax-Atattendance/static/css/main.c965756f.css.map",
+    "main.6478d995.js.map": "/Catax-Atattendance/static/js/main.6478d995.js.map",
+    "787.56573871.chunk.js.map": "/Catax-Atattendance/static/js/787.56573871.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c965756f.css",
+    "static/js/main.6478d995.js"
+  ]
+}
