@@ -20,7 +20,7 @@ import { UserLogin, UserToken } from '../redux/action/Action';
 import { useSelector } from 'react-redux';
 const theme = createTheme();
 
-export default function Login() {
+function Login() {
   const { users } = useSelector((state) => state?.login);
   const userId = users?._id;
   const navigate = useNavigate();
@@ -126,3 +126,4 @@ export default function Login() {
     </ThemeProvider>
   );
 }
+export default Login;

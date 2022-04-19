@@ -1,9 +1,11 @@
 import React from 'react';
 
+import employe from '../employe.png';
+
 const Home = () => {
   return (
     <div>
-      <h1>Welcome to the catax</h1>
+      <img src={employe} alt='employe' height={500} width={600} />
     </div>
   );
 };

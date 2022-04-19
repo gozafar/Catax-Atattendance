@@ -187,11 +187,11 @@ export default function SignUp() {
                 />
               </Grid>
               <Grid item xs={12} sm={6}>
+                <label for='exampleInputPassword1'>Date of Birth</label>
                 <TextField
                   required
                   fullWidth
                   type='date'
-                  label='Enter D.O.B'
                   name='dob'
                   value={inputField.dob}
                   autoComplete='family-name'
@@ -199,11 +199,11 @@ export default function SignUp() {
                 />
               </Grid>
               <Grid item xs={12} sm={6}>
+                <label for='exampleInputPassword1'>Date of Joining</label>
                 <TextField
                   required
                   fullWidth
                   type='date'
-                  label='Enter D.O.J'
                   name='doj'
                   value={inputField.doj}
                   autoComplete='family-name'
